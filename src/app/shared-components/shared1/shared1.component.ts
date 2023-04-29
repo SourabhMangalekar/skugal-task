@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./shared1.component.scss']
 })
 export class Shared1Component implements OnInit {
+  numberToConvert: any;
+
 
   constructor() { }
 
